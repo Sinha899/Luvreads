@@ -1,0 +1,39 @@
+nav{
+    background-color:teal;
+}
+body{
+    background-color:beige;
+}
+.d-block{
+width:1500px;
+height:500px;
+}
+li{
+    display:inline-block;
+}
+ul{
+    text-align: center;
+}
+.hi2{
+    background-color:teal;
+    color:white;
+    padding: 15px;;
+}
+button{
+    background-color:beige;
+    height: 50px;
+    width: 300px;
+}
+.form-control{
+    width:600px;
+}
+.footer{
+    background-color:grey;
+    color:white;
+    border:3px solid black;
+    text-align: center;
+}
+.btn{
+    background-color: teal;
+    color:beige;
+}
